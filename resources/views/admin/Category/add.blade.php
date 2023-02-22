@@ -765,8 +765,7 @@
                                                             <input type="text" class="form-control" name="tenmuc"placeholder="Loại tin">
                                                         </div>
                                                         <div class="form-group review-pro-edt mg-b-0-pt">
-                                                            <button type="submit" class="btn btn-ctl-bt waves-effect waves-light">Gửi
-                                                                </button>
+                                                            <button type="submit" class="btn btn-ctl-bt waves-effect waves-light">Gửi</button>
                                                         </div>
                                                     @csrf
                                                     </form>
